@@ -1109,7 +1109,7 @@ GameObject:
   - component: {fileID: 445165828}
   - component: {fileID: 445165827}
   m_Layer: 0
-  m_Name: Void
+  m_Name: Death
   m_TagString: Void
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
